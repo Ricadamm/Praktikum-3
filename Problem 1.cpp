@@ -4,10 +4,7 @@ using namespace std;
 
 int main() 
 {
-    int a;
-    int b;
-    int c;
-
+    float a,b,c;
 
     cout << "Value of a: ";
     cin >> a;
